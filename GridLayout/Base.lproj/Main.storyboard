@@ -46,7 +46,7 @@
                         </cells>
                         <connections>
                             <outlet property="dataSource" destination="tMI-97-Gb3" id="iHG-61-mcQ"/>
-                            <outlet property="delegate" destination="ikj-J0-gyC" id="f8e-mO-qHM"/>
+                            <outlet property="delegate" destination="tMI-97-Gb3" id="P52-wN-zYg"/>
                         </connections>
                     </collectionView>
                     <connections>
